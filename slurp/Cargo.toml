@@ -1,0 +1,8 @@
+[package]
+
+name = "slurp"
+version = "0.0.1"
+authors = ["Brecht Hoflack <brh@melexis.com>"]
+
+[dependencies.postgres]
+git = "https://github.com/sfackler/rust-postgres.git"
